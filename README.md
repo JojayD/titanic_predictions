@@ -1,0 +1,1 @@
+In this study I used supervised machine learning to predict the survival of people on the titianic using the titanic dataset on kaggle (https://www.kaggle.com/competitions/titanic). I used two binary classifiers Linear Regression and RandomForestClassifier to achieve an output of 80 % accuracy
